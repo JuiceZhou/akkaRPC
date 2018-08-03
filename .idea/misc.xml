@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="Kotlin2JsCompilerArguments">
+    <option name="sourceMapEmbedSources" />
+    <option name="sourceMapPrefix" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="libraryTable">
+    <library name="scala-sdk-2.10.6" type="Scala">
+      <properties>
+        <compiler-classpath>
+          <root url="file://C:/Program Files (x86)/scala/lib/scala-compiler.jar" />
+          <root url="file://C:/Program Files (x86)/scala/lib/scala-library.jar" />
+          <root url="file://C:/Program Files (x86)/scala/lib/scala-reflect.jar" />
+        </compiler-classpath>
+      </properties>
+      <CLASSES>
+        <root url="jar://C:/Program Files (x86)/scala/lib/scala-actors-migration.jar!/" />
+        <root url="jar://C:/Program Files (x86)/scala/lib/scala-actors.jar!/" />
+        <root url="jar://C:/Program Files (x86)/scala/lib/scala-library.jar!/" />
+        <root url="jar://C:/Program Files (x86)/scala/lib/scala-reflect.jar!/" />
+        <root url="jar://C:/Program Files (x86)/scala/lib/scala-swing.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="http://www.scala-lang.org/api/2.10.6/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://D:/常用jar包/大数据/scala/scala-2.10.6.zip!/" />
+      </SOURCES>
+    </library>
+  </component>
+</project>
